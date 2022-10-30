@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋,  Krish here...</h1> 
-<h3 align="center">A passionate developer from India</h3>    
-<!-- <hr> -->
+<h3 align="center">A passionate developer from India</h3>
 <br>
 
 * <h2><strong>Technology Stack 💻</strong></h2>
