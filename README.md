@@ -66,12 +66,12 @@
 * <h2><strong>Github Statistics ✨</h2></strong>
   <br>
     <p align='center'>
-      <img src="https://github-readme-stats.vercel.app/api?username=krishpatel2383&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&hide=issues"><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel2383&theme=tokyonight&hide_border=false&ring=1EE2BF&fire=E25525)"><br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishpatel2383&hide=border&theme=tokyonight" border="1px" style="border-radius:5px"><br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpatel2383&theme=tokyonight" border="1px" style="border-radius:5px"><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=krishpatel2383&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&hide=issues&hide_border=true"><br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel2383&theme=tokyonight&hide_border=false&ring=1EE2BF&fire=E25525&hide_border=true"><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishpatel2383&hide=border&theme=tokyonight"><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpatel2383&theme=tokyonight"><br><br>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=krishpatel2383&data=followers,repositories,stars,commits&theme=dracula"><br><br>
-      <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true" border="1px" style="border-radius:5px"><br><br>
+      <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true"><br><br>
       <img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&rank=SSS, SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15">
     </p>
 
