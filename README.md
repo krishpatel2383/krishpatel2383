@@ -1,6 +1,7 @@
-<h1 align="center" style="border: none"><strong>Hi 👋,  Krish here...</strong></h1> 
-<h3 align="center">A passionate developer from India</h3>  
-<hr> 
+<h1 align="center">Hi 👋,  Krish here...</h1> 
+<h3 align="center">A passionate developer from India</h3>    
+<!-- <hr> -->
+<br>
 
 * <h2><strong>Technology Stack 💻</strong></h2>
   <br>
@@ -13,8 +14,8 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-    <img src="   https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
    </p>
 
    Frameworks & Libraries 📦 :
@@ -72,8 +73,10 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpatel2383&theme=tokyonight"><br><br>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=krishpatel2383&data=followers,repositories,stars,commits&theme=dracula"><br><br>
       <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true"><br><br>
-      <img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&rank=SSS, SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15">
-    </p>
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&column=-1&margin-w=15&margin-h=15" alt="krish" /></a>
+  </p>
+<!--       <img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&rank=SSS, SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15"> -->
+    
 
 <p align='center'>
     <a href="https://holopin.io/@krishpatel2383" style="outline:none;" ><img src="https://holopin.me/krishpatel2383"/></a>
