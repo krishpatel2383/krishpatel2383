@@ -1,4 +1,4 @@
-**<h1 align="center" style="border-bottom: none">Hi 👋,  Krish here...</h1>** 
+**<h1 align="center" style="border: none">Hi 👋,  Krish here...</h1>** 
 <h3 align="center">A passionate developer from India</h3>  
 <hr> 
 
@@ -62,7 +62,7 @@
       <img src="https://cp-logo.vercel.app/leetcode/krishpatel2383?logo=true">&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-round&logo=HackerRank&logoColor=white">
     </p>
-    <br>
+
 * <h2><strong>Github Statistics ✨</h2></strong>
   <br>
     <p align='center'>
@@ -71,7 +71,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishpatel2383&hide=border&theme=tokyonight" border="1px" style="border-radius:5px"><br><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpatel2383&theme=tokyonight" border="1px" style="border-radius:5px"><br><br>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=krishpatel2383&data=followers,repositories,stars,commits&theme=dracula"><br><br>
-      <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&"><br><br>
+      <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true" border="1px" style="border-radius:5px"><br><br>
       <img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&rank=SSS, SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15">
     </p>
 
