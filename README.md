@@ -1,4 +1,4 @@
-**<h1 align="center" style="border: none">Hi 👋,  Krish here...</h1>** 
+<h1 align="center" style="border: none"><strong>Hi 👋,  Krish here...</strong></h1> 
 <h3 align="center">A passionate developer from India</h3>  
 <hr> 
 
