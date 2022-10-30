@@ -80,7 +80,7 @@
 
 <p align='center'>
     <a href="https://holopin.io/@krishpatel2383" style="outline:none;" ><img src="https://holopin.me/krishpatel2383"/></a>
-</p><br>
+</p>
 
 * <h2><strong>Socials 📱</h2></strong>
   <br>
