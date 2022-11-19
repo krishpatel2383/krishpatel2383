@@ -74,15 +74,13 @@
       <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true"><br><br>
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&column=-1&margin-w=15&margin-h=15" alt="krish" /></a>
   </p>
-<!--       <img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&rank=SSS, SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15"> -->
-    
 
-<p align='center'>
-    <a href="https://holopin.io/@krishpatel2383" style="outline:none;" ><img src="https://holopin.me/krishpatel2383"/></a>
-</p>
+[![@krishpatel2383's Holopin board](https://holopin.me/krishpatel2383)](https://holopin.io/@krishpatel2383)
 
 * <h2><strong>Socials 📱</h2></strong>
   <br>
+    <a href="https://twitter.com/krishpatel_2383" style="outline:none;"><img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/krish-patel-32a2bb201/" style="outline:none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://t.me/krish_patel" style="outline:none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/ig_krishp" style="outline:none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://t.me/krish_patel" style="outline:none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/ig_krishp" style="outline:none;"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a>
