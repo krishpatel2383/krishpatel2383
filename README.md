@@ -71,8 +71,8 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishpatel2383&hide=border&theme=tokyonight"><br><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpatel2383&theme=tokyonight"><br><br>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=krishpatel2383&data=followers,repositories,stars,commits&theme=dracula"><br><br>
-      <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true"><br><br>
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishpatel2383&theme=tokyonight&column=-1&margin-w=15&margin-h=15" alt="krish" /></a>
+<!--       <img src="https://activity-graph.herokuapp.com/graph?username=krishpatel2383&theme=tokyo-night&area=true&hide_border=true"><br><br> -->
   </p>
 
 [![@krishpatel2383's Holopin board](https://holopin.me/krishpatel2383)](https://holopin.io/@krishpatel2383)
