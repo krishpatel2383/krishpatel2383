@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <br>
 
+
 * <h2><strong>Technology Stack 💻</strong></h2>
   <br>
   
@@ -84,3 +85,5 @@
     <a href="https://t.me/krish_patel" style="outline:none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     &nbsp;&nbsp;
     <a href="https://instagram.com/ig_krishp" style="outline:none;"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishpatel2383&label=Profile%20views&color=red&style=for-the-badge" alt="krishpatel2383" />
