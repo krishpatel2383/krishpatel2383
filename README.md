@@ -42,7 +42,6 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Android_Studio-239120?style=for-the-badge&logo=android-studio&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/dev_c++-2531b0?style=for-the-badge&logo=dev%20c++&logoColor=white">&nbsp;&nbsp;
    </p>
 
    Version Control 🔧 :
